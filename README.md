@@ -1,5 +1,9 @@
 # fakult
-Ein C-Programm zur exakten Berechnung der Fakultät einer beliebigen Zahl n.
+Ein C-Programm zur exakten Berechnung der Fakultät einer beliebigen Zahl n Nach dem Muster
+
+$
+Fakultät = 1*2*...*n
+$
 
 ## Nutzung des Programms
 
